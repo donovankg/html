@@ -25,7 +25,7 @@
 12. How can you apply CSS to only a part of the HTML document?
   * you can do it inline or in a link at the top.
 13. What are the new features introduced by CSS3?
-  * anamation, selectors, text effcts
+  * anamation, selectors, text effcts, rounded corners
 14. How can you highlight text in HTML?
   * use a span and change the background color
 15. What is responsive design?
@@ -62,7 +62,7 @@
 30. How do you reset a CSS style?
   * you can run a css reset script that will have all the defaults preset to 0 and a default font.
 31. If you have a way of dividing an interface horizontally and vertically, could any layout be made?
-  * 
+  * yes
 32. How can you store data on the browser?
   * in the localstorage
 33. What debug tools are available for CSS?
@@ -70,27 +70,27 @@
 34. How do you make a mobile-first approach?
   * you start the screen small and set the layouts that way till its good then you move up to tablet and desktop.
 35. Explain how the box-model works.
-  * 
+  * a model box is how the element looks; marigin, border, padding.
 36. What is flexbox? Have you used it?
-  * 
+  * flexbox is a means to layout your web pages and makes it easy to make the site respeonsive.
 37. What are media queries?
   * they allow you to change the CSS depending on the size of the screen and kind of the device.
 38. Name a few pseudo-classes and what they are used for
-  * 
+  * .class:hover (mouse over something) .class:click(watchs for mouse click).
 39. Explain how CSS shorthand syntax works for padding/margin.
-  * 
+  * padding: 0 = padding 0 0 0 0 or padding left: 0, padding right: 0, etc. same for margin.
 40. How is an HTML5 form implemented?
-  * 
+  * it starts with form tags and a button for submitting. it also has some predefined validation built into it.
 41. Describe how to improve page load times when you have 20 js files, 20 css files, and 20 images.
-  * 
+  * use media queries 
 42. How can an inline style be overridden
-  * 
+  * by using !important from a CSS file.
 43. Explain how to implement a carousel using CSS / CSS3
-  * 
+  * put X number of images in an element, set that element to (x * 100%) set the parent element to whatever size. then use a @keyframe to anamate it so that it moves and stops at each 100%.
 44. How can the performance of a web page be measured?
-  * 
+  * by reading the load times and processes in the dev tools
 45. Is there a performance difference between the different selectors?
-  * 
+  * yes, depending if you use class or id, id will override class.
 46. What are the different CSS filters you can use ?
   * 
 47. What is the specificity?
