@@ -44,31 +44,31 @@
 21. What are the possible values of position? (redirect to question #2)
   * 
 22. What is a class and an id?
-  * they are both ways to link the CSS to the elements.
+  * they are both selectors that are able to link the CSS to the elements.
 23. How do you target a direct child element?
   * parent child{ something }
 24. Can you target a single, specific element with a particular class?
   * .class:nth-of-type(2) for the 3rd copy of "class"  
 25. What is the use of the data-* attribute?
-  * 
+  * it allows data to be stored in elements so that it can be used in javascript and other languages.
 26. What is the difference between display:none and visibility:hidden?
-  * 
+  * display none isn't sent to the dom, hidden is sent to the dom but its not visible.
 27. Does overflow: hidden create a new block formatting context?
-  * 
+  * overflow: hidden doesn't extend anything beyond the element.
 28. Is it possible to use percentages in border widths?
-  * 
+  * no.
 29. Is it possible to use percentages in margins?
-  * 
+  * yes.
 30. How do you reset a CSS style?
-  * 
+  * you can run a css reset script that will have all the defaults preset to 0 and a default font.
 31. If you have a way of dividing an interface horizontally and vertically, could any layout be made?
   * 
 32. How can you store data on the browser?
-  * 
+  * in the localstorage
 33. What debug tools are available for CSS?
-  * 
+  * by inspecting the elements
 34. How do you make a mobile-first approach?
-  * 
+  * you start the screen small and set the layouts that way till its good then you move up to tablet and desktop.
 35. Explain how the box-model works.
   * 
 36. What is flexbox? Have you used it?
@@ -108,14 +108,14 @@
 53. Explain what standard and quirks mode are.
   * 
 54. Have you used <meta> tags? Explain.
-  * 
+  * yes, it sets the charset.
 55. When sending form data, what is the difference between the GET and POST methods?
   * 
 
 ##Bootstrap
 
 1. Explain what is bootstrap and how do you make use of it.
-  * 
+  * its a framework that has predefined classes so you don't have to deal with css as much.
 2. How would you plan creating a CSS framework similar to bootstrap?
   * 
 3. What is your opinion on bootstrap?
@@ -130,6 +130,6 @@
 ##Less
 
 1. Explain how LESS works advantages & disadvantages. What is a mixin?
-  * 
+  * it allows you to have children and parents like html does but with CSS.
 2. What are the reasons to use preprocessors?
   * 
