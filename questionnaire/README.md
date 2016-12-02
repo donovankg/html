@@ -15,7 +15,7 @@
 7. Explain how the new HTML5 features work:
   * there are new semactic tag that make things easier to identify 
 8. How can you generate a public key in html?
-  * 
+  * <keygen name="name">
 9. What are `<label>` elements used for?
   * they are used for labeling elements like input boxes
 10. Are there any optional tags?
