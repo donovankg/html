@@ -117,15 +117,15 @@
 1. Explain what is bootstrap and how do you make use of it.
   * its a framework that has predefined classes so you don't have to deal with css as much.
 2. How would you plan creating a CSS framework similar to bootstrap?
-  * 
+  * by setting a lot of standard class names.
 3. What is your opinion on bootstrap?
-  * 
+  * its good but I feeel I need to research it more before applying it to work. I also don't like that I shouldn't override some parts of classes.
 4. What version of bootstrap have you used?
-  * 
+  * Bootstrap 3.3.6
 5. What is the difference between bootstrap 3 and 4?
-  * 
+  * it addes sass and removes less. improved the look of tables.
 6. Give a comparison between bootstrap and foundation.
-  * 
+  * bootstrap is good for setting up a page fast but foundation is a bit easier for a mobile first build.
 
 ##Less
 
