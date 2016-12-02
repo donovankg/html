@@ -25,7 +25,7 @@
 12. How can you apply CSS to only a part of the HTML document?
   * you can do it inline or in a link at the top.
 13. What are the new features introduced by CSS3?
-  * anamation, 
+  * anamation, selectors, text effcts
 14. How can you highlight text in HTML?
   * use a span and change the background color
 15. What is responsive design?
@@ -36,9 +36,9 @@
 17. Explain how transitions work
   * this is like anamation but only happens once and is triggered
 18. Explain the different CSS units of measurement.
-  * px, em, %
+  * px, em, pt, %
 19. How do you capitalize using only CSS?
-  * 
+  * text-transform: uppercase;
 20. What are the possible values for the display rule and what do they do?
   * 
 21. What are the possible values of position? (redirect to question #2)
