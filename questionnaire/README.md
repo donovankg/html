@@ -132,4 +132,4 @@
 1. Explain how LESS works advantages & disadvantages. What is a mixin?
   * it allows you to have children and parents like html does but with CSS.
 2. What are the reasons to use preprocessors?
-  * 
+  * because it doesn't bind them to the limitations of css.
