@@ -19,23 +19,24 @@
 9. What are `<label>` elements used for?
   * they are used for labeling elements like input boxes
 10. Are there any optional tags?
-  * 
+  * yes
 11. When would you use a `<div>`, `<section>`, or `<article>` tag?
-  * 
+  * it depends, they do the same thing but using different ones allow people reading the code to makes it easier.
 12. How can you apply CSS to only a part of the HTML document?
-  * 
+  * you can do it inline or in a link at the top.
 13. What are the new features introduced by CSS3?
-  * 
+  * anamation, 
 14. How can you highlight text in HTML?
-  * 
+  * use a span and change the background color
 15. What is responsive design?
-  * 
+  * responsive allows the layout to change depending on the device or screen size.
 16. Explain how CSS3 animations work.
-  * 
+  * you first set the element settings then have anamation and parameters of it. under that you'll have the @keyframes that 
+    tells the dom what the element changes or does.
 17. Explain how transitions work
-  * 
+  * this is like anamation but only happens once and is triggered
 18. Explain the different CSS units of measurement.
-  * 
+  * px, em, %
 19. How do you capitalize using only CSS?
   * 
 20. What are the possible values for the display rule and what do they do?
