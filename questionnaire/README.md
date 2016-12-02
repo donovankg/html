@@ -44,11 +44,11 @@
 21. What are the possible values of position? (redirect to question #2)
   * 
 22. What is a class and an id?
-  * 
+  * they are both ways to link the CSS to the elements.
 23. How do you target a direct child element?
-  * 
+  * parent child{ something }
 24. Can you target a single, specific element with a particular class?
-  * 
+  * .class:nth-of-type(2) for the 3rd copy of "class"  
 25. What is the use of the data-* attribute?
   * 
 26. What is the difference between display:none and visibility:hidden?
@@ -74,7 +74,7 @@
 36. What is flexbox? Have you used it?
   * 
 37. What are media queries?
-  * 
+  * they allow you to change the CSS depending on the size of the screen and kind of the device.
 38. Name a few pseudo-classes and what they are used for
   * 
 39. Explain how CSS shorthand syntax works for padding/margin.
