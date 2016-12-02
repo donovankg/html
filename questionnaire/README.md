@@ -92,25 +92,25 @@
 45. Is there a performance difference between the different selectors?
   * yes, depending if you use class or id, id will override class.
 46. What are the different CSS filters you can use ?
-  * 
+  * blur, sepia, brightness
 47. What is the specificity?
-  * 
+  * it decides what takes over on the style sheet. inline > ID > class > tag.
 48. How would you use sprites?
-  * 
+  * sprites is where you have lots of images on a single file and the only display a set area of it.
 49. How can you load CSS resources conditionally?
-  * 
+  * using media queries.
 50. What is gzipping? How is it used?
-  * 
+  * graphic zipping. its a means to compress images so they don't take as long to load.
 51. Mention any CSS framework that you have used.
-  * 
+  * bootstrap
 52. How do you serve a page in multiple languages?
-  * 
+  * by using element lang = "different lang"
 53. Explain what standard and quirks mode are.
-  * 
+  * standard mode is pages thats made for current browsers in use, quirks mode is for pages used on legacy browsers like netscape.
 54. Have you used <meta> tags? Explain.
   * yes, it sets the charset.
 55. When sending form data, what is the difference between the GET and POST methods?
-  * 
+  * Get is going to put a query in the address bar and its not secure at all (stored in cookies). The POST method is more secure, can't be bookmarked, can't be cached, and will not save information in cookies
 
 ##Bootstrap
 
