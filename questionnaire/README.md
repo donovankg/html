@@ -11,9 +11,9 @@
 5. What does the float property do?
   * it allows you to move elements to the right and left
 6. How do you change the direction of HTML text
-  * 
+  * direction = rtl; with unicode-bidi: bidi-override;
 7. Explain how the new HTML5 features work:
-  * 
+  * there are new semactic tag that make things easier to identify 
 8. How can you generate a public key in html?
   * 
 9. What are `<label>` elements used for?
